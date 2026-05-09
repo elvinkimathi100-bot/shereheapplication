@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226861900748",
+    "project_id": "sherehe-ke-dbf23",
+    "storage_bucket": "sherehe-ke-dbf23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226861900748:android:db8a66c3fc35a0bf2c7369",
+        "android_client_info": {
+          "package_name": "com.mark.shereheke"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxD3BQlaPxluEdCIMaMziJVaaCIuKl_gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

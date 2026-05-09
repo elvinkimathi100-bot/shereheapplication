@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Abstract 'S' or Party Element -->
+    <path
+        android:pathData="M54,20 C40,20 30,30 30,44 C30,58 40,68 54,68 C68,68 78,78 78,92 C78,106 68,116 54,116"
+        android:strokeWidth="8"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:visibility="gone" />
+
+    <!-- Modern Minimalist Cocktail/Celebration Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,30 L74,30 L54,55 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,55 L52,75 L44,75 L44,79 L64,79 L64,75 L56,75 L56,55 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,42 L58,38 L62,42 L58,46 Z" />
+</vector>
